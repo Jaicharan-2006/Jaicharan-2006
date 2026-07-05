@@ -1,78 +1,100 @@
 <p align="center">
-  <img src="(https://www.freepik.com/photos/ai-letters/2)" width="100%">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker_cat.gif" width="100%" alt="banner gif"/>
 </p>
 
-# Hi 👋, I'm Jaicharan M
+<h1 align="center">Hi 👋, I'm Jaicharan M</h1>
+<h3 align="center">AI Developer | Python Programmer | Computer Science Student</h3>
 
-### AI Developer | Python Programmer | Computer Science Student
-
-🚀 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
-
----
-
-## About Me
-
-- 🎓 B.Tech / B.Sc Computer Science Student
-- 🤖 Building AI Gallery Project
-- 🧠 Developing Personal Jarvis Assistant
-- 💻 Python, JavaScript, AI & Automation Enthusiast
-- 🌱 Currently learning Advanced AI Systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Automation;Always+learning.+Always+building." alt="Typing SVG" />
+</p>
 
 ---
 
-## Tech Stack
+### 🚀 About Me
 
-### Languages
-Python | Java | JavaScript | HTML | CSS
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-### AI & ML
-PyTorch | Transformers | OpenCV | FAISS
-
-### Tools
-Git | GitHub | VS Code | Linux
----
-
-## Featured Projects
-
-### 🤖 Mini-LLM Chatbot
-Local AI chatbot built using Python and Transformers.
-
-### 🖼️ AI Gallery
-AI-powered image management and recognition system.
-
-### 🎙️ Jarvis Assistant
-Desktop AI assistant with voice commands and automation.
+- 🎓 Computer Science Student (B.E)
+- 🤖 Building an **AI Gallery** — image management & recognition system
+- 🧠 Developing a personal **Jarvis Assistant** with voice commands
+- 💻 Focused on Python, JavaScript, AI & Automation
+- 🌱 Currently learning advanced AI systems and MLOps
+- 📫 Reach me at: *jaicharan623@gmail.com*
 
 ---
 
-## GitHub Stats
+### 🛠️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jaicharan-2006&show_icons=true)
+**Languages**
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaicharan-2006&layout=compact)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+**AI & Machine Learning**
+
+`PyTorch` · `Transformers` · `OpenCV` · `FAISS`
+
+**Tools & Platforms**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ---
 
-## Current Goals
+### 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🤖 **Mini-LLM Chatbot** | Local AI chatbot built with Python and Transformers |
+| 🖼️ **AI Gallery** | AI-powered image management and recognition system |
+| 🎙️ **Jarvis Assistant** | Desktop AI assistant with voice commands and automation |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaicharan-2006&show_icons=true&theme=default" alt="Jaicharan's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaicharan-2006&layout=compact" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaicharan-2006" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaicharan-2006" alt="GitHub Trophies" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaicharan-2006" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+### 🎯 Current Goals
 
 - Build production-ready AI applications
-- Master Machine Learning
-- Create my own AI ecosystem
+- Deepen expertise in Machine Learning
+- Create a personal AI ecosystem of tools
 
 ---
 
-⭐ Always learning. Always building.
+### 🤝 Connect with Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jaicharan-2006)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jaicharan-2006)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaicharan-2006)
-
-<h1 align="center">Hi 👋, I'm I'm Jaicharan M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/jaicharan-murugesan-a68803359" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
+  <a href="https://www.instagram.com/jaicharan_2006/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="32" height="32"/></a>
+  <a href="https://portfolio-eeq4.vercel.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="32" height="32"/></a>
+</a> -->
 </p>
+
+<p align="center">⭐ Always learning. Always building.</p>
