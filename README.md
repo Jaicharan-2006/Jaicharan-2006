@@ -93,7 +93,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jaicharan-murugesan-a68803359" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
   <a href="https://www.instagram.com/jaicharan_2006/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="32" height="32"/></a>
-  <a href="https://portfolio-eeq4.vercel.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="32" height="32"/></a>
+  <a href="https://portfolio-v2-0-rust-nine.vercel.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="32" height="32"/></a>
 </a> -->
 </p>
 
